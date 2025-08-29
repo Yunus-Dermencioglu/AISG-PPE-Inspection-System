@@ -19,7 +19,7 @@
 
 ## Proje Hakkında
 
-AISG KKD Denetim Sistemi, çalışanların kişisel koruyucu donanım kullanma durumlarını izleyerek, çalışma ortamındaki güvenliği yükseltmek için geliştirilmiş kapsamlı bir iş sağlığı ve güvenliği çözümüdür.
+AISG KKD Denetim Sistemi, çalışanların kişisel koruyucu donanım kullanma durumlarını izleyerek, çalışma ortamındaki güvenliği yükseltmek için geliştirilmiş kapsamlı bir iş sağlığı ve güvenliği çözümüdür daha fazla bilgi için: https://xrlab.cbu.edu.tr/2025Projects/ AISG: Kişisel Koruyucu Donanım Denetleme Sistemi.
 
 ### Ana Özellikler
 
